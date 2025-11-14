@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/zt_banner.png" alt="Project 4 — Conditional Access Zero Trust Banner" width="100%">
+  <img src="screenshots/CA-Zero-Trust-Banner.png" alt="Project 4 — Conditional Access Zero Trust Banner" width="100%">
 </p>
 
 # 🛡️ Project 4 — Entra ID (Azure AD) Conditional Access Zero Trust
@@ -265,7 +265,7 @@ Client apps restricted to legacy authentication.
 project-4-entra-id-conditional-access-zero-trust/
 │ README.md
 └── screenshots/
-    ├─ zt_banner.png
+    ├─ CA-Zero-Trust-Banner.png
     ├─ zt-group-admins-created.png
     ├─ zt-group-admins-members.png
     ├─ zt-group-allusers-created.png
