@@ -136,26 +136,26 @@ The **United States** was created as a **trusted location** to enforce geo-based
 ### ✅ **Assignments**
 Targeted all users while excluding the BreakGlass account.
 
-![Policy 01 Assignments](screenshots/policy01-assignments.png)
+![Policy 01 Assignments](screenshots/CA-Policy01-Assignments.png)
 
 ---
 
 ### ✅ **Conditions**
 No additional conditions required; applies universally.
 
-![Policy 01 Conditions](screenshots/policy01-conditions.png)
+![Policy 01 Conditions](screenshots/CA-Policy01-Conditions.png)
 
 ---
 
 ### ✅ **Grant Controls**
 - **Require MFA**
 
-![Policy 01 Grant](screenshots/policy01-grant.png)
+![Policy 01 Grant](screenshots/CA-Policy01-Grant.png)
 
 ---
 
 ### 🎉 **Final Overview**
-![Policy 01 Overview](screenshots/policy01-overview.png)
+![Policy 01 Overview](screenshots/CA-Policy01-Overview.png)
 
 </details>
 
@@ -172,26 +172,26 @@ No additional conditions required; applies universally.
 ### ✅ **Assignments**
 Applies to all users except BreakGlass.
 
-![Policy 02 Assignments](screenshots/policy02-assignments.png)
+![Policy 02 Assignments](screenshots/CA-Policy02-Assignments.png)
 
 ---
 
 ### ✅ **Conditions**
 Sign-ins from **outside the U.S.** are included and blocked.
 
-![Policy 02 Location Condition](screenshots/policy02-conditions-locations.png)
+![Policy 02 Location Condition](screenshots/CA-Policy02-Conditions-Locations.png)
 
 ---
 
 ### ✅ **Grant Controls**
 - **Block Access**
 
-![Policy 02 Grant](screenshots/policy02-grant.png)
+![Policy 02 Grant](screenshots/CA-Policy02-Grant.png)
 
 ---
 
 ### 🎉 **Final Overview**
-![Policy 02 Overview](screenshots/policy02-overview.png)
+![Policy 02 Overview](screenshots/CA-Policy02-Overview.png)
 
 </details>
 
@@ -217,26 +217,26 @@ Legacy protocols bypass MFA and modern token protections. This policy blocks:
 ### ✅ **Assignments**
 Targeted all users except BreakGlass.
 
-![Policy 03 Assignments](screenshots/policy03-assignments.png)
+![Policy 03 Assignments](screenshots/CA-Policy03-Assignments.png)
 
 ---
 
 ### ✅ **Conditions**
 Client apps restricted to legacy authentication.
 
-![Policy 03 Client Apps Condition](screenshots/policy03-conditions-clientapps.png)
+![Policy 03 Client Apps Condition](screenshots/CA-Policy03-Conditions-ClientApps.png)
 
 ---
 
 ### ✅ **Grant Controls**
 - **Block Access**
 
-![Policy 03 Grant](screenshots/policy03-grant.png)
+![Policy 03 Grant](screenshots/CA-Policy03-Grant.png)
 
 ---
 
 ### 🎉 **Final Overview**
-![Policy 03 Overview](screenshots/policy03-overview.png)
+![Policy 03 Overview](screenshots/CA-Policy03-Overview.png)
 
 </details>
 
