@@ -31,7 +31,7 @@ _Identity Perimeter • Least Privilege • Modern Access Control_
 ---
 
 <details open>
-  <summary><h2 id="objective">🎯 Objective</h2></summary>
+ <summary><h2 id="objective">🎯 Objective</h2></summary>
 
 This project demonstrates a **Zero Trust Conditional Access architecture** in Microsoft Entra ID.
 
@@ -274,19 +274,19 @@ project-4-entra-id-conditional-access-zero-trust/
     ├─ zt-group-breakglass-members.png
     ├─ zt-group-trustedlocations-created.png
     ├─ named-location-united-states.png
-    ├─ policy01-assignments.png
-    ├─ policy01-conditions.png
-    ├─ policy01-grant.png
-    ├─ policy01-overview.png
-    ├─ policy02-assignments.png
-    ├─ policy02-conditions-locations.png
-    ├─ policy02-grant.png
-    ├─ policy02-overview.png
-    ├─ policy03-assignments.png
-    ├─ policy03-conditions-clientapps.png
-    ├─ policy03-grant.png
-    ├─ policy03-overview.png
-    └─ conditional-access-policy-list.png
+    ├─ CA-Policy01-Assignments.png
+    ├─ CA-Policy01-Conditions.png
+    ├─ CA-Policy01-Grant.png
+    ├─ CA-Policy01-Overview.png
+    ├─ CA-Policy02-Assignments.png
+    ├─ CA-Policy02-Conditions-locations.png
+    ├─ CA-Policy02-Grant.png
+    ├─ CA-Policy02-Overview.png
+    ├─ CA-Policy03-Assignments.png
+    ├─ CA-Policy03-Conditions-clientapps.png
+    ├─ CA-Policy03-Grant.png
+    ├─ CA-Policy03-Overview.png
+    └─ conditional-Access-Policy-List.png
 ```
 
 </details>
