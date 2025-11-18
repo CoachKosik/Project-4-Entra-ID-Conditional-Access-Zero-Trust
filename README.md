@@ -70,10 +70,10 @@ This project matches Microsoft’s official Zero Trust model:
 
 ```text
 Users → Governance Groups → Conditional Access Policies
-  │
-  Named Locations (USA only)
-  │
-  MFA enforced everywhere
+                 │
+        Named Locations (USA only)
+                 │
+        MFA enforced everywhere
 ```
 
 ---
