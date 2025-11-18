@@ -161,7 +161,7 @@ Users → Governance Groups → Conditional Access Policies
 
 ---
 
-## 🧾 Policy List Proof
+## 🧾 Policy Enforcement Evidence
 
 ![Policy List](screenshots/conditional-access-policy-list.png)
 
