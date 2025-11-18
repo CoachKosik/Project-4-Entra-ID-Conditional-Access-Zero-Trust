@@ -206,3 +206,10 @@ Project-4-Zero-Trust-Conditional-Access/
     CA-Policy03-Grant.png
     CA-Policy03-Overview.png
     Policy-01-Require-MFA.png.png
+```
+
+---
+
+⭐ **If this project helped you, please STAR the repo**
+🧑‍💻 Full IAM Portfolio → https://github.com/CoachKosik  
+🧠 *Proof-based IAM > text-only IAM*
