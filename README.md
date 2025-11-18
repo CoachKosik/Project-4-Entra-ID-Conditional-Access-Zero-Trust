@@ -35,7 +35,7 @@ These skills are required for:
 - [Objectives](#-objectives)
 - [Zero Trust Requirements](#-zero-trust-requirements)
 - [Architecture](#-architecture)
-- [Groups Created](#-groups-created)
+- [Groups Created](#-groups-created-governance-structure)
 - [Conditional Access Policies](#-conditional-access-policies)
 - [Named Location + Geo Logic](#-named-location--geo-logic)
 - [Policy Enforcement Evidence](#-policy-enforcement-evidence)
