@@ -74,6 +74,7 @@ Users → Governance Groups → Conditional Access Policies
   Named Locations (USA only)
   │
   MFA enforced everywhere
+```
 
 ---
 
