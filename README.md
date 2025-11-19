@@ -28,7 +28,7 @@ What this proves I can do:
 ✔ Maintain break-glass resilience  
 ✔ Capture BEFORE/AFTER enforcement evidence
 
-These skills are required for:
+This aligns with the expectations for:
 
 🟦 IAM Analysts  
 🟦 Identity Governance Specialists  
