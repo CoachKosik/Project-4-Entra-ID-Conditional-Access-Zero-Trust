@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/CA-Zero-Trust-Banner.png" width="100%">
+  <img src="screenshots/project_4_Banner.png" width="100%">
 </p>
 
 <h1 align="center">🛑 Project 4 — Entra ID Zero Trust Conditional Access</h1>
