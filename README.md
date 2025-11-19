@@ -7,6 +7,13 @@
 
 ---
 
+#### Conditional Access Policies · Named Locations · MFA Enforcement
+
+> **TL;DR:** Designed and implemented Zero Trust access controls using Conditional Access policies, named locations, and tenant-wide hardening.  
+> **Focus:** MFA requirements, legacy auth blocking, privileged access safeguards.
+
+---
+
 ## 🟦 Why This Project Matters to IAM Hiring Managers
 
 Conditional Access is the **core enforcement engine of Zero Trust.**  
@@ -207,6 +214,18 @@ Project-4-Zero-Trust-Conditional-Access/
     CA-Policy03-Overview.png
     Policy-01-Require-MFA.png.png
 ```
+
+---
+
+## 🧩 Skills Demonstrated
+- Zero Trust access architecture & design
+- Conditional Access policy creation & testing
+- Named locations (trusted countries / geo restrictions)
+- MFA enforcement policies
+- Blocking legacy authentication protocols
+- Admin & break-glass account governance
+- Governance group strategy for scalable policy assignment
+- Policy documentation with evidence and screenshots
 
 ---
 
