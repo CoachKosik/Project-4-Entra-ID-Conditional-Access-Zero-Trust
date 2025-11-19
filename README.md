@@ -210,6 +210,6 @@ Project-4-Zero-Trust-Conditional-Access/
 
 ---
 
-⭐ **If this project helped you, please STAR the repo**
-🧑‍💻 Full IAM Portfolio → https://github.com/CoachKosik  
+⭐ **If this project helped you, please STAR the repo**<br>
+🧑‍💻 Full IAM Portfolio → https://github.com/CoachKosik<br>
 🧠 *Proof-based IAM > text-only IAM*
