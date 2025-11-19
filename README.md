@@ -218,14 +218,14 @@ Project-4-Zero-Trust-Conditional-Access/
 ---
 
 ## 🧩 Skills Demonstrated
-- Zero Trust access architecture & design
-- Conditional Access policy creation & testing
-- Named locations (trusted countries / geo restrictions)
-- MFA enforcement policies
-- Blocking legacy authentication protocols
-- Admin & break-glass account governance
-- Governance group strategy for scalable policy assignment
-- Policy documentation with evidence and screenshots
+- Zero Trust access architecture using Microsoft Entra ID
+- Conditional Access policy design (MFA, location, client apps)
+- Named locations & geolocation-based access controls
+- Administrative segmentation with governance groups
+- Break-glass account strategy & privileged access safeguards
+- Legacy authentication blocking at the tenant level
+- Policy testing & validation across multiple user personas
+- Security documentation aligned with enterprise IAM controls
 
 ---
 
